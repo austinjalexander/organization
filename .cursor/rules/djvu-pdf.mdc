@@ -1,0 +1,11 @@
+---
+description: Automatically convert DjVu documents encountered during organization or intake into verified PDF reading copies
+alwaysApply: true
+---
+
+For `.djvu` or `.djv` documents encountered in the current organization/intake scope,
+use `.agents/skills/convert-djvu/SKILL.md` and `tools/djvu_to_pdf.py`.
+Automatically prepare selected accessible files in private staging, preserve originals
+and existing OCR, and verify the PDF before preferring it for reading.
+`AGENTS.md` remains canonical; existing filing approvals and privacy rules still apply.
+No background watcher, bulk hydration, source deletion, or global app change is implied.

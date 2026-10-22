@@ -1,0 +1,16 @@
+---
+description: Visually identify every selected image before proposing file organization
+alwaysApply: true
+---
+
+For images in the active organization batch, use
+`.agents/skills/review-images/SKILL.md`, `docs/IMAGE_REVIEW.md` and
+`tools/image_review.py`. Inspect each image, even when its filename sounds clear.
+Record its plain-language description, category, confidence, uncertainty and
+visual evidence against the exact source SHA-256 in ignored `.local/`.
+Show descriptions alongside filenames before asking for filing approval.
+Unreviewed or ambiguous images remain holds; labels alone are insufficient.
+Selected retrieval/private previews need no extra inspection prompt; bulk
+hydration, external classifier uploads and automatic moves remain unauthorized.
+`AGENTS.md` remains canonical. Classification does not prove inactivity,
+dependency freedom, duplicates or Google Photos backup coverage.

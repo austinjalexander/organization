@@ -1,0 +1,4 @@
+interface:
+  display_name: "Convert DjVu to PDF"
+  short_description: "Preserve DjVu originals and make readable PDF copies"
+  default_prompt: "Use $convert-djvu for DjVu documents encountered in the current organization work."
