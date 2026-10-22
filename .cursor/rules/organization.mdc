@@ -1,0 +1,8 @@
+---
+description: File organization policy and approval workflow for this repository
+alwaysApply: true
+---
+
+Read and follow `AGENTS.md`. It is the canonical project guidance.
+Read `docs/ORGANIZATION_PLAN.md`, `docs/WORKFLOW.md`, and `docs/DECISIONS.md`
+before preparing organization batches. Private working records belong in `.local/`.

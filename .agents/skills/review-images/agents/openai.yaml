@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review images before organizing"
+  short_description: "Describe every selected image before proposing its home"
+  default_prompt: "Use $review-images to inspect each selected image, record hash-linked descriptions and prepare understandable filing proposals."

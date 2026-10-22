@@ -1,0 +1,15 @@
+---
+description: Scan selected digital books before content use and record hash-bound security evidence
+alwaysApply: true
+---
+
+Follow the book-security policy in `AGENTS.md` and `docs/BOOK_SECURITY.md`.
+When a digital book is downloaded or selected for reading, parsing, conversion,
+or filing, run `python3 tools/book_security.py /absolute/path/to/book.pdf`.
+The helper reuses only a current successful scan for matching bytes, engine,
+signature databases and policy, and updates known digital catalog holdings.
+Results and raw logs remain in ignored `.local/`.
+An absent scanner, stale definitions, error, encryption, or exceeded limit is a
+hold, never a successful scan. Do not process a held book or automatically move,
+delete, quarantine, upload, or execute it. Scan derived reading copies too.
+This is an agent workflow gate, not a background watcher or OS-wide on-access scan.

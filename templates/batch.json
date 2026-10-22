@@ -1,0 +1,28 @@
+{
+  "batch_id": null,
+  "revision": 1,
+  "status": "draft",
+  "scope": null,
+  "evidence_snapshot": null,
+  "approval": null,
+  "items": [
+    {
+      "item_id": null,
+      "source": null,
+      "destination": null,
+      "action": null,
+      "reason": null,
+      "evidence": [],
+      "governance": "unknown",
+      "shared_or_app_dependencies": "unknown",
+      "archive_basis": null,
+      "integrity": {"bytes": null, "sha256": null, "provider_id": null, "revision": null},
+      "descendant_inventory": null,
+      "collision_check": "pending",
+      "duplicate_check": "pending",
+      "rollback": {"source": null, "destination": null},
+      "status": "draft",
+      "outcomes": []
+    }
+  ]
+}

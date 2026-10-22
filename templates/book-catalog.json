@@ -1,0 +1,78 @@
+{
+  "catalog_version": 2,
+  "updated_on": null,
+  "coverage": {"physical": "not_inventoried", "digital": "not_inventoried"},
+  "records": [
+    {
+      "record_id": null,
+      "work_id": null,
+      "metadata_status": "provisional",
+      "title": null,
+      "authors": [],
+      "edition_statement": null,
+      "publisher": null,
+      "publication_year": null,
+      "language": null,
+      "isbns": [],
+      "lccn": null,
+      "subjects": [],
+      "subject_references": [],
+      "lcc_lookup_status": "not_checked",
+      "lcc_assignments": [
+        {
+          "assignment_id": null,
+          "raw_label": null,
+          "call_number": null,
+          "class_letters": null,
+          "class_number": null,
+          "cutters": [],
+          "date_text": null,
+          "suffix": null,
+          "parse_status": "not_parsed",
+          "status": "unresolved",
+          "assigned_by": null,
+          "source_id": null,
+          "holding_ids": []
+        }
+      ],
+      "holdings": [
+        {
+          "holding_id": null,
+          "kind": null,
+          "format": null,
+          "volume": null,
+          "copy_number": null,
+          "annotations": null,
+          "loan": null,
+          "physical": {
+            "current_location": {"location_id": null, "room": null, "bookcase": null, "shelf": null, "position": null},
+            "proposed_location": null,
+            "label_assignment_ids": []
+          },
+          "digital": {
+            "provider": null,
+            "canonical_reference": null,
+            "provider_id": null,
+            "revision": null,
+            "sha256": null,
+            "security_scan": {
+              "status": "not_scanned",
+              "sha256": null,
+              "scanned_at": null,
+              "engine": null,
+              "database_versions": {},
+              "policy_version": null,
+              "report": null,
+              "limitation": "No threats detected does not establish safety."
+            },
+            "match_status": "unverified",
+            "match_evidence_ids": []
+          },
+          "evidence_ids": []
+        }
+      ],
+      "evidence": [],
+      "unresolved": []
+    }
+  ]
+}
