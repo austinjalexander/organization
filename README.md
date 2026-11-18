@@ -47,9 +47,19 @@ proposal is superseded. B02f revision 3 is complete: six approved images were
 archived with descriptive names in three new folders, and all six SHA-256/provider
 content hashes match. The other 23 immediate source entries remain unchanged,
 including the held project asset. Results are in `.local/B02f-results.md`.
-B02g proposes three content-identified publication-format references with
-descriptive names and one new folder; `.local/B02g-review.md` and
-`.local/B02g-manifest.json` await approval.
+B02g is complete: three publication-format references were archived with
+descriptive names in one new folder. SHA-256/provider content hashes match,
+and the other 20 immediate source entries are unchanged. Results and reverse
+paths are in `.local/B02g-results.md`. B02h is complete: three study references
+were filed with descriptive names in existing subject folders, and all three
+SHA-256/provider content hashes match. The other 17 source entries and 120
+existing destination entries are unchanged. The physics filename catalog was
+refreshed to 3,686 records and includes all three new paths as local placeholders.
+Results and reverse paths are in `.local/B02h-results.md`. B02i is complete:
+three documents were moved and renamed, three folders were created, and all
+SHA-256 and provider content hashes match. The refreshed physics catalog
+includes the new periodical path. Results and reverse paths are in
+`.local/B02i-results.md`; 14 immediate desktop entries remain for review.
 The initial review is in ignored
 `.local/initial-review.json`; `.local/initial-review.html` is its searchable view.
 Raw inventories and private decisions stay in `.local/`, outside Git tracking.
@@ -61,6 +71,17 @@ PDFs were filed in the established optics folder, verified locally and by cloud
 name/size, and indexed in the physics catalog. Private results and reverse paths
 are in `.local/books-2026-10-20/BK01-results.md` and
 `.local/books-2026-10-20/BK02/BK02-results.md`; three requests remain unresolved.
+BK03's two approved book moves are complete in three new literature subject
+folders. Local SHA-256 hashes and Dropbox cloud names, paths, and sizes are
+verified; the private book catalog is updated. Approval, results, and reverse
+paths are in `.local/books-2026-10-26-irish/BK03-results.txt`; the other two titles
+from that intake remain unacquired.
+BK05's one approved textbook move is complete in the existing chemistry folder.
+Local SHA-256 and Dropbox cloud name/path/size are verified; the private book
+catalog and physics filename index are updated. Approval, results and reverse
+mapping are in `.local/books-2026-11-09-mit-3091/BK05-results.md` and its manifest.
+The two exact custom editions requested in that intake remain unacquired; the
+filed book is a separately identified open-textbook adaptation.
 
 ## Metadata inventory
 

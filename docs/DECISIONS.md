@@ -96,11 +96,9 @@ updated definitions; all returned no threats detected and unchanged hashes.
 
 ## Pending organization work
 
-- B02g revision 1: proposed archive of three content-identified publication-format
-  references with descriptive names and one new parent folder. Printed historical
-  context does not establish inactivity; archival treatment requires sign-off.
-  One project asset and other source items remain held. No B02g move, folder
-  creation or rename is approved or performed.
+- Review the 14 remaining desktop entries. Resolve document and data-export
+  context and keep project assets, aliases, apps, installers and database
+  backups on hold pending dependency and governance checks.
 - D004: descendant coverage and unresolved folder meanings/governance.
 - Book catalog: physical location inventory, shelving zones and exceptions,
   canonical Dropbox catalog destination, and edition/label verification.
@@ -189,3 +187,69 @@ All other 23 immediate source entries, including the held project asset, and
 three existing archive entries are unchanged. No deletions or overwrites.
 Private results, created-folder identities, filing records and reverse mappings
 are in `.local/B02f-results.md` and its manifest.
+
+## B02g approved and completed — October 26, 2026
+
+User response to the concrete revision 1 publication-reference proposal:
+"approved". The specified folder was created and all three PDFs moved/renamed
+exactly as approved. Independent post-move SHA-256 checks and provider content
+hashes match the reviewed originals. File IDs, sizes and client modification
+times are preserved; provider revisions changed and are recorded. The other
+20 immediate source entries and six existing archive entries are unchanged.
+No deletions or overwrites. Current scan references, private results,
+created-folder identity and reverse mappings are retained in
+`.local/B02g-results.md` and its manifest.
+
+## B02h approved and completed — October 27, 2026
+
+User response to the concrete revision 1 study-filing proposal: "approved".
+All three files moved/renamed into the existing subject folders; independent
+post-move SHA-256 checks and provider content hashes match the reviewed originals.
+File IDs, sizes and client modification times are preserved. No folders were
+created. All other 17 source entries and 120 existing destination entries are
+unchanged. The approved metadata-only physics catalog refresh completed with
+3,686 records, no scan errors and all three new paths present. Selected local
+entries are zero-byte Dropbox placeholders; cloud bytes were verified separately.
+Private results, index snapshots, current scan references and reverse mappings
+are in `.local/B02h-results.md` and its manifest.
+
+## BK03 approved and completed — October 26, 2026
+
+User response to the concrete revision 1 two-book filing proposal: "approved".
+The three specified literature folders were created and both PDFs moved with
+their filenames preserved. Local SHA-256 hashes and sizes match; staging source
+paths are absent. Dropbox cloud names, paths and sizes are verified, with provider
+IDs and revisions recorded. Cloud content hashes were not retrieved. The private
+book catalog now references the canonical destinations and their subject folders.
+All 79 pre-existing immediate Studies entries retain their stable metadata; no
+overwrites, merges, sharing changes or unrelated cleanup occurred. The two
+unacquired titles were excluded. Private approval, folder identities, integrity
+evidence and reverse mappings are in
+`.local/books-2026-10-26-irish/BK03-results.txt` and its manifest.
+
+## BK05 approved and completed — November 9, 2026
+
+User response to the concrete revision 1 one-book filing proposal: "approved".
+The selected PDF moved with its approved descriptive name into the existing
+chemistry folder. Its local SHA-256 and size match the staged download, and the
+staging source is absent. Dropbox independently confirms its name, path and
+size; an independent cloud content hash was not retrieved. All 11 pre-existing
+immediate destination entries are unchanged. No folders were created, and no
+overwrites, merges, deletions or sharing changes occurred. The private holding
+now points to Dropbox, and the approved physics filename-index refresh contains
+3,687 records without scan errors and includes the new path. The two exact custom
+editions remain unacquired; the filed adaptation is identified separately.
+Private approval, scan evidence, index snapshots, results and reverse mapping
+are in `.local/books-2026-11-09-mit-3091/BK05-results.md` and its manifest.
+
+## B02i approved and completed — November 16, 2026
+
+The user approved revision 1: three exact moves and renames, three folder
+creations, and a metadata-only physics catalog refresh. All three files retain
+their provider IDs, sizes and client modification times; post-move SHA-256
+and provider content hashes match. The other 14 immediate desktop entries
+and preexisting destination entries are unchanged. The catalog includes the
+magazine and has 3,691 records with no scan errors. The magazine is a local
+placeholder; its cloud bytes were verified separately. No deletions, merges
+or overwrites. Exact paths, identities and undo steps are in
+`.local/B02i-results.md` and its manifest.

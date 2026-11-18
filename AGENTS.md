@@ -15,6 +15,12 @@ This repository coordinates the user's file organization. Read `README.md`,
   archiving, deleting, or creating destination folders outside this repo requires
   approval of the relevant concrete batch. Structure approval alone is not move approval.
 - Record approval scope and exclusions. Do not infer approval from silence.
+- When organizing learning resources from Roam Research, use
+  `.agents/skills/organize-roam-learning/SKILL.md`. Track progress in ignored
+  `.local/` and preserve reading notes and status in Roam. Add a standalone
+  `#organization-repo` tag only on an approved resource page after verifying
+  its corresponding local record. Record the page and tag block IDs for
+  verification and rollback.
 - Before acquiring books, search Dropbox cloud filenames by title, author, and
   available identifiers. Resolve likely matches before downloading another copy;
   a local-only search or empty search result does not establish absence.
